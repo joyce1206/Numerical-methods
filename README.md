@@ -7,4 +7,4 @@ La mayoría de estos scripts los realicé durante el programa de mi maestría en
 Los códigos están escritos en Matlab.
 La versión de Matlab que utilicé cuando escribí los códigos fue la 2022a y 2022b.
 
-En la carpeta datos escontrarás archivos .txt .xlsx que ocupan los programas de regresión
+En la carpeta :file_folder: datos escontrarás archivos .txt .xlsx que ocupan los programas de regresión
