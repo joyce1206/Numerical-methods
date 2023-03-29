@@ -1,4 +1,4 @@
-%Programa para Análisis de Varianzas por Joyce I. Casanova Chacón
+%Programa Regresión Polinomial y Análisis de Varianzas por Joyce I. Casanova Chacón
 %M. en C. en Hidrometeorología// Métodos numéricos
 clear all; close all;
 clc
