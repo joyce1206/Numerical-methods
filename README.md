@@ -8,3 +8,4 @@ Los códigos están escritos en Matlab.
 💻La versión de Matlab que utilicé cuando escribí los códigos fue la 2022a y 2022b. 
 
 En la 📁 datos escontrarás archivos .txt .xlsx que ocupan los programas de regresión
+En las imágenes .png vienen las descripciones de los ejercicios
